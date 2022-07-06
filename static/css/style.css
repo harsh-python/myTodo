@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Pricedown Bl', 'Kdam Thmor Pro', 'Rajdhani',sans-serif; */
+}
+.banner h1{
+    position: absolute;
+    top: 36%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Pricedown Bl', 'Kdam Thmor Pro', 'Rajdhani',sans-serif;
+    /* font-family: 'Kdam Thmor Pro', sans-serif; */
+    /* font-family: 'Rajdhani', sans-serif;
+    font-weight: 100; */
+}
+.banner font{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-weight: 900;
+    font-size: 70px;
+    font-family: 'Pricedown Bl', 'Kdam Thmor Pro', 'Rajdhani',sans-serif;
+}
+
+.typed{
+    color: rgb(0, 0, 0);
+}
+/* body{
+    font-family: 'Pricedown Bl', 'Kdam Thmor Pro', 'Rajdhani',sans-serif;
+} */
+
+.footer{
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-size: 35px;
+    font-family: 'Pricedown Bl', 'Kdam Thmor Pro', 'Rajdhani',sans-serif;
+}
